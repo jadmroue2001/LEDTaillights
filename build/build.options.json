@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../..,../..,../..,../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "esp8266:esp8266:espino:xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,ResetMethod=nodemcu,eesz=4M2M,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+  "hardwareFolders": "/Users/jadmroue/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/jadmroue/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/jadmroue/Documents/Arduino/projects/taillights/taillights.ino"
+}
